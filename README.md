@@ -1,4 +1,4 @@
-# 🤟 Indian Sign Language (ISL) Translator — ML Edition
+# 🤟 SignSense-AI(ML Translator)
 
 Real-time gesture recognition using **MediaPipe + LSTM** — converts live hand signs into ISL letters A–Z directly from your webcam.
 
